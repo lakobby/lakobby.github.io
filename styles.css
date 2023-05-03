@@ -119,6 +119,7 @@ nav button {
     font-weight: 400;
     margin-bottom: 20px;
     text-decoration: none;
+    color: #777;
 }
 .footer .col {
     flex-basis: 25%;
@@ -152,6 +153,5 @@ nav button {
     padding: 10px 10%;
     font-size: 14px;
     margin-top: 20px;
-    margin-bottom: 10px;text-decoration: none;
-    color: #777;
+    margin-bottom: 10px;
 }
