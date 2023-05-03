@@ -111,6 +111,7 @@ nav button {
 
 .footer {
     border-top: 6px solid #333;
+    text-decoration: none;
     color: #777;
 }
 .footer h2{
