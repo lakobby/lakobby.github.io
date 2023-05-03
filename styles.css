@@ -38,7 +38,7 @@ nav{
 nav button {
     border: 0;
     outline: 0;
-    background: red;
+    background: rgb(0, 110, 255);
     color: white;
     padding: 7px 20px;
     font-size: 12px;
@@ -98,7 +98,7 @@ nav button {
     margin-left: 20px;
 }
 .email-signup button{
-    background: red;
+    background: rgb(0, 110, 255);
     border: 0;
     outline: 0;
     color: white;
